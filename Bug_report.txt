@@ -1,1 +1,13 @@
-
+ID - B1
+Summary - Widget "trading calculator" disappears from the main page
+Precondition - Open the main page capital.com, scroll to the tradinh calculator
+Steps to reproduce - Click dropdown and slider-handls on the widget for a while (average time is 93.3 sec)
+ER - Widget works correctly, doesn't disappear
+AR - After some time of using the trading calculator, it disappears from the main page
+Assigned to - Developer's name
+Attachment - Video; Screenshot; Table; Conclusion
+Environment - Google Chrome Version 109.0.5414.120  1360*768
+Modul - Trading Calculator
+Comment - The bug reproduced in Yandex Browser (version - 23.1.1.1132) and Mozila Firefox (version - 109.0.1)
+Severity  - Major
+Priority - Middle
