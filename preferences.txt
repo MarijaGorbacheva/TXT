@@ -1,0 +1,6 @@
+User preferences:
+1. Movie - LOTR;
+2. Serial - No favourite serial;
+3. Food - Sweets;
+4. Season - Spring;
+5. Country - Finland.

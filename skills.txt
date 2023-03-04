@@ -1,0 +1,11 @@
+User future skills:
+1. Testing theory;
+2. Mobile testing;
+3. Python;
+4. Postman;
+5. Jmeter;
+6. HTTP;
+7. JSON;
+8. XML;
+9. API;
+10. Client-server architecture.
